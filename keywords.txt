@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Classes and datatypes (KEYWORD1)
+#######################################
+MD_HX711	KEYWORD1
+
+#######################################
+# Methods and functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+reset	KEYWORD2
+isReady	KEYWORD2
+read	KEYWORD2
+enableChannelB	KEYWORD2
+setGainA	KEYWORD2
+autoZeroTare	KEYWORD2
+setZeroTare	KEYWORD2
+setCalibration	KEYWORD2
+getZeroTare	KEYWORD2
+getCalibration	KEYWORD2
+getRaw	KEYWORD2
+getTared	KEYWORD2
+getCalibrated	KEYWORD2
+getReadCount	KEYWORD2
+enableInterrupMode	KEYWORD2
+isInterruptMode	KEYWORD2
+
+######################################
+# Constants/defines (LITERAL1)
+#######################################
+CH_A	LITERAL1
+CH_B	LITERAL1
+GAIN_128	LITERAL1
+GAIN_64	LITERAL1
